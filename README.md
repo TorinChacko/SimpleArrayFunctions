@@ -15,7 +15,13 @@ Simple everyday functions / code snippets for arrays:
 
   test data:
 
-  string d[5] = { "kirana", "kirana", "kirana", "tim", "tim" };
+
+
+
+
+
+
+    string d[5] = { "kirana", "kirana", "kirana", "tim", "tim" };
     string e[4] = { "donald", "tim", "", "doug" };
     string f[3] = { "jd", "donald", "gwen" };
     string g[4] = { "melania", "kirana", "jd", "usha" };
